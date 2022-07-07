@@ -3,10 +3,11 @@
 	--white: #ffffff;
   }
   
-  body { background-color: var(--blue); }
+  body { 
+	background-color: var(--blue); }
   
   h1 { border-bottom: 2px solid var(--blue); }
-  
+
   .container {
 	color: var(--blue);
 	background-color: var(--white);
